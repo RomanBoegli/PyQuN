@@ -1,12 +1,14 @@
 [build-system]
-requires = ["hatchling"]
+requires = ["hatchling>=1.27"]
 build-backend = "hatchling.build"
 
 [project]
 name = "pyqun"
-version = "1.0.0"
+version = "1.0.1"
 description = "RaQuN Lab: the RaQuN n-way model matching algorithm and a lab for benchmarking model matching strategies"
 readme = "readme.md"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.12"
 keywords = ["model matching", "n-way matching", "RaQuN"]
 # The core (data model, RaQuN, candidate search, matching) needs only these; scipy comes with scikit-learn

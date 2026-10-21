@@ -8,7 +8,7 @@ dist/
 .idea/
 .DS_Store
 
-# Written by the experiment runner (Main.py)
+# Written by the experiment runner (main.py)
 MetaData/Experiment/
 MetaData/Results/
 MetaData/Strategies/

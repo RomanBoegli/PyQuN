@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1
+
+No code changes.
+
+- Licensed under the MIT licence (`LICENSE`), declared in the package metadata.
+- The README cites RaQuN, Rubin & Chechik's n-way model merging and Spieler et al.'s study of RaQuN's configuration, with BibTeX.
+- `Main.py` is renamed to `main.py`.
+
 ## 1.0.0
 
 The first packaged release of this fork. It builds on commit `b117853` of
